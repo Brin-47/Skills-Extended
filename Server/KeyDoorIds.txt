@@ -224,6 +224,11 @@ Door ID: door_Shoreline_Sanatorium_indoor_00232 KeyID: 5a0dc95c86f77452440fc675 
 Door ID: door_Shoreline_Sanatorium_indoor_00246 KeyID: 5a13ef7e86f7741290491063 Key Name: Health Resort west wing room 301 key
 Door ID: door_Shoreline_Sanatorium_indoor_00248 KeyID: 5a13f46386f7741dd7384b04 Key Name: Health Resort west wing room 306 key
 Door ID: door_Shoreline_Sanatorium_indoor_00283 KeyID: 5a0ea79b86f7741d4a35298e Key Name: Health Resort universal utility room key
+Door ID: container_shoreline_DesignStuff_00212 KeyID: 5a0f0f5886f7741c4e32a472 Key Name: Health Resort management warehouse safe key
+Door ID: container_shoreline_DesignStuff_00211 KeyID: 5a0f08bc86f77478f33b84c2 Key Name: Health Resort management office safe key
+Door ID: container_shoreline_DesignStuff_00208 KeyID: 5a0eff2986f7741fd654e684 Key Name: Health Resort west wing room 321 safe key
+Door ID: lootable_00004 KeyID: 5a0f068686f7745b0d4ea242 Key Name: Cottage safe key
+
 
 LABS:
 
